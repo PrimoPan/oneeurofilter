@@ -1,0 +1,20 @@
+{
+  "name": "oneeurofilter",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "build up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/PrimoPan/oneeurofilter.git"
+  },
+  "author": "PrimoPan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrimoPan/oneeurofilter/issues"
+  },
+  "homepage": "https://github.com/PrimoPan/oneeurofilter#readme"
+}
