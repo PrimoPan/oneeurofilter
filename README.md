@@ -1,2 +1,2 @@
 # oneeurofilter via javascript
-####written by Primo.Jay.Pan
+written by Primo.Jay.Pan
